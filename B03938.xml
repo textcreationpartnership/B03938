@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Kelletts case with the Society of Clements-Inn.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03938</idno>
+            <idno type="STC">Wing K237A</idno>
+            <idno type="STC">ESTC R215544</idno>
+            <idno type="EEBO-CITATION">52612190</idno>
+            <idno type="OCLC">ocm 52612190</idno>
+            <idno type="VID">179490</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179490)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2790:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Kelletts case with the Society of Clements-Inn.</title>
+                  <author>Kellett, Mr.</author>
+               </titleStmt>
+               <extent>[1], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin in the Old-Baily,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Advertisement on p. [1].</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kellett, --  Mr. --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Society of Clements Inn --  Early works to 1800.</term>
+               <term>Breach of contract --  England --  Early works to 1800.</term>
+               <term>Construction contracts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:179490:1"/>
+            <pb n="1" facs="tcp:179490:1" rendition="simple:additions"/>
+            <head>Mr. Kelletts CASE WITH THE SOCIETY OF Clements-Inn.</head>
+            <p>KELLETT ſuppoſing the Principal and Ancients of <hi>Clements-Inn</hi> had good Title to the <hi>Inn,</hi> did in <hi>July</hi> 1673, Contract with them for ground to build thereon for a Term of forty years at the Rent of 12 <hi>
+                  <abbr>l.</abbr> per Annum:</hi> After <hi>Kellett</hi> had expended near 2000 <abbr>
+                  <hi>l.</hi>
+               </abbr> in building, the Earl of <hi>Clare</hi> claimed Title to the whole <hi>Inn,</hi> and ſent to <hi>Kellett</hi> to come to him before he went beyond the Seas and comply with his Lordſhip, or elſe he would ſtop up his Lights: <hi>Kellet</hi> acquainted the Principal and Ancients there<g ref="char:EOLhyphen"/>with, deſiring ſome of them to go with him to the Earl, but they refuſing to go, <hi>Kellett</hi> did not; thereupon the Earl reſerved power in Mr. <hi>Marklands</hi> Leaſe to come into the ground adjoining to <hi>Kelletts</hi> building to ſtop up his Lights.</p>
+            <p>When the Earl was beyond the Seas he ſent ſeveral Letters to his Steward to ſtop up <hi>Kelletts</hi> Lights, if he would not comply: That a building being begun to ſtop up <hi>Kelletts</hi> Lights, he made known the ſame to the Principal and Ancients, deſiring them to prevent it, but they refuſed, ſaying they were not concerned till after Forty years.</p>
+            <p>Thereupon <hi>Kellett</hi> at his own charge moved in <hi>Chancery</hi> for a Writ of <hi>Nuſance,</hi> which was granted; but the Earl moving againſt it, and the Society not aſſiſting <hi>Kellett,</hi> the Lord Chancellor declared that it was not <hi>Clements-Inn</hi> building but <hi>Kelletts,</hi> and wondred how he durſt build without the conſent of the Inner <hi>Temple.</hi>
+            </p>
+            <p>Then <hi>Kellett</hi> Petitioned the Benchers of the Inner <hi>Temple,</hi> ſetting forth his Contract, and what the Lord Chancellor had ſaid, praying them to defend him from the Earl, and <hi>Clements-Inn,</hi> and he would perform his Contract and pay Rent to them: That ſome of the Benchers adviſed <hi>Kellett</hi> to give a Copy of his Petition to the Principal and Ancients, wiſhing them to come to the Benchers before the Petition was preferred, which <hi>Kellett</hi> accordingly did, but the Ancients refuſed to go, ſaying that the Benchers had nothing to do with them in matters of Title but only relating to the Government of the Society.</p>
+            <p>Thereupon <hi>Kellett</hi> preferred his Petition to the Benchers, who debated the matter at the Table, whether they ſhould make an Order for the Principal and Ancients to at<g ref="char:EOLhyphen"/>tend them, in regard they had ſent word to the Benchers that they had nothing to do with them as to Title, therefore they directed their Chief Butler to go to the Princi<g ref="char:EOLhyphen"/>pal
+<pb n="2" facs="tcp:179490:2"/>
+and Ancients and deſire them with <hi>Kellett</hi> to attend Sir <hi>John Trevor</hi> then Treaſurer at his Chamber with ſome Benchers, and the Principal and Ancients with <hi>Killett</hi> attending accordingly, the Benchers did not pretend Title to <hi>Clements-Inn,</hi> but wiſhed <hi>Kellett</hi> to comply with the Principal and Ancients, which <hi>Kellett</hi> never refuſed ſo as he might have a good Title or be defended from the Earl of <hi>Clare.</hi>
+            </p>
+            <p>Then <hi>Kellett</hi> acquainted Mr. Juſtice <hi>Twiſden</hi> with his Caſe, and he and ſeveral others ſatisfied <hi>Kellett</hi> that the Title to <hi>Clements-Ins</hi> was in the Earl, and unleſs he compli<g ref="char:EOLhyphen"/>ed with the Earl he could not be ſafe; and this was the motive that induced <hi>Kellett</hi> to comply with the Earl, although it has been falſly reported, that <hi>Kellett</hi> was the firſt promoter of the Earls Title to be rid of his hard bargain, and to avoid his Contract; but the contrary is notorious, for <hi>Kellett</hi> oppoſed the Earl to his uttermoſt, and never entertained thoughts of a compliance until he was deſerted by the Principal and An<g ref="char:EOLhyphen"/>cients, they refuſing either to defend or give him any aſſiſtance, and being thus ex<g ref="char:EOLhyphen"/>poſed he thought it behoov'd him to conſult his own ſecurity in the beſt way he could, being in no wiſe able to withſtand the proceedings of the Earl, who had cauſed ſome of <hi>Kelletts</hi> Lights to be ſtopp'd up, and threaned to ſtop up more: And ſo far was <hi>Kellett</hi> from endeavouring to avoid his Contract, that before the Earl pretended Ti<g ref="char:EOLhyphen"/>tle, <hi>Kellett</hi> tendred to the Principal and Ancients a draught of Articles, ſuch as they uſually made, but they refuſed to Execute the ſame, upon pretence <hi>Kellett</hi> had taken more ground then was agreed on, although the ſame was done by the Conſents of ſome of the Ancients, and is in truth a benefit to the Society, but a prejudice to <hi>Kellett.</hi>
+            </p>
+            <p>That <hi>Kellett</hi> ſuffering under ſo great extremity repaired to the honorable Mr. <hi>Peir<g ref="char:EOLhyphen"/>point</hi> and others the Earls Truſtees, (the Earl being then beyond the Seas) and agreed with them for a Leaſe of all <hi>Clements-Inn</hi> for a 100 years at the Rent of 20 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> but aſ ſoon as this Agreement was known, and that the <hi>Earl</hi> had ordered <hi>Kel<g ref="char:EOLhyphen"/>lett</hi> his aſſiſtance as his Tennant, the Principal and Ancients ordered, that unleſs <hi>Kellett</hi> would deſiſt from further proceeding with the Earl and comply with them, that <hi>Kel<g ref="char:EOLhyphen"/>lett</hi> ſhould be expelled the Society and Padlocks ſet upon his Chamber door, which was accordingly done, and <hi>Kellett</hi> breaking off the Padlock was upon the complaint of the Principal and Ancients ſummoned before the then Lord Chief Juſtice <hi>Hales,</hi> and <hi>Kellett</hi> offered by Rule of Court, to ſubmit the matter to his Lordſhips Award, but his Lordſhip refuſing to undertake the ſame, adviſed <hi>Kellett</hi> to comply with the Prin<g ref="char:EOLhyphen"/>cipal and Ancients, which he was willing to do, ſo as he might be defended from the Earl, although he was like to be a great looſer by the Building.</p>
+            <p>In anſwer whereunto, it was pretended by Mr. <hi>Edward Garrard</hi> one of the Anci<g ref="char:EOLhyphen"/>ents, that <hi>Kellett</hi> would be gainer; for that the building was worth above 2100 <abbr>
+                  <hi>l.</hi>
+               </abbr> and <hi>Kellett</hi> for quietneſs ſake offered to take leſs by 300 <abbr>
+                  <hi>l.</hi>
+               </abbr> which offer his Lordſhip adviſed the Principal and Ancients to accept, and pay the mony, but they pretending they had no money, his Lordſhip being unſatisfied with that excuſe ſaid, had no perſon in <hi>Clements-Inn</hi> money to buy a good Bargain? adviſing them to cloſe with <hi>Kellets</hi> offer and let him hear no more of it, but they refuſed to comply and his Lordſhip died.</p>
+            <p>The matter thus reſting undetermined, <hi>Kellett</hi> upon the Earls return into <hi>England</hi> went to a Bencher of the Inner <hi>Temple</hi> to adviſe about his Leaſe, who told <hi>Kellett,</hi> that he could not be of Counſel againſt <hi>Clements-Inn</hi> becauſe they had ſome dependance upon the Inner <hi>Temple;</hi> whereupon <hi>Kellett</hi> deſiring him to adviſe ſuch a Leaſe as they would accept, he adviſed <hi>Kellett</hi> rather to buy the inheritance, than take a Leaſe, for that he was confident the Inner <hi>Temple</hi> would accept of the Inheritance.</p>
+            <p>Thereupon <hi>Kellett</hi> with much difficulty prevailed with the Earl to ſell his Inheritance, upon <hi>Kelletts</hi> promiſe that if he parted with it, it ſhould be to the Inner <hi>Temple:</hi> For that the Society of <hi>Clements-Inn</hi> had much affronted the Earl in refuſing to pay Rent, pulling down his Arms and denying his Lordſhips Tenants liberty to go through the <hi>Inn</hi> in the day time, which is reſerved in <hi>Kelletts</hi> Conveyance from ſix in the morning till nine at Night, except <hi>Sundays</hi> in Church time.</p>
+            <p>After <hi>Kellett</hi> had purchaſed the Inheritance, he repaired to Mr. <hi>Powel</hi> then Trea<g ref="char:EOLhyphen"/>ſurer of the Inner <hi>Temple,</hi> and offered the ſame to that Society gratis, ſo as they would make a Leaſe to him of ſuch part thereof as ſhould not diſturb or prejudice any mans perſon or intereſt there, and yet leave <hi>Clements-Inn</hi> a Revenue of 100 <hi>
+                  <abbr>l.</abbr> per Annum.</hi>
+            </p>
+            <p>Mr. <hi>Powel</hi> liked <hi>Kelletts</hi> propoſition, and ſaid, that though they had not money they would give him ſomething for it; thereupon <hi>Kellett</hi> propoſed that he and his two Sons
+<pb n="3" facs="tcp:179490:2" rendition="simple:additions"/>
+ſhould be admitted of the <hi>Inner-Temple</hi> and have Chambers for their three lives, with which Mr. <hi>Powel</hi> ſeemed well pleaſed, but afterwards refuſed to proceed therein, which diſappointment proved very prejudicial to <hi>Kellett,</hi> for had not he relied upon their acceptance of the Inheritance, he had taken a Leaſe, and ſo had been inti<g ref="char:EOLhyphen"/>tuled to the favour and protection of the Earl as his Tennant.</p>
+            <p>
+               <hi>Kellett</hi> finding his expectation fruſtrated, and that <hi>Clements-Inn</hi> would not conde<g ref="char:EOLhyphen"/>ſcend to any reaſonable terms, brought and Ejectment to trie his title, and moved the Court of Kings Bench for a plea or Judgment, and then the Court conceived the matter fit to be compoſed, and in order thereto <hi>Kellett</hi> gave Copies of his Caſe to all the Judges, but <hi>Clements Inn</hi> perſiſting in their unreaſonableneſs, <hi>Kellett</hi> moved the Court again, and then Mr. Juſtice <hi>Wild</hi> told the Society in open Court that they would neither go to Church nor ſtay at home; for if they had a title, <hi>Kellett</hi> ſhould ſubmit to them, and if they had no title, they might have one upon reaſonable termes, and ſo ordered Judgment unleſs they pleaded.</p>
+            <p>After a plea given and the Cauſe ready for Tryall, the Principal and Ancient and others as a Society in <hi>February,</hi> 1679, exhibited their Bill in <hi>Chancery,</hi> and then got an Injunction to ſtay proceedings at Law, and then the Lord Chancellor referred the matter to the Lord Chief Juſtice <hi>Pemberton,</hi> being then but a puiſny Judge, to com<g ref="char:EOLhyphen"/>poſe the difference if he could, who being attended by both parties, and altho <hi>Kellett</hi> did, as he apprehends, fully ſatisfie his Lordſhip of his undoubted title to all <hi>Clements-Inn,</hi> yet he could not prevail with his Lordſhip to allow him what his buil<g ref="char:EOLhyphen"/>ding is worth and what he paid to the Earl of <hi>Clare,</hi> and ſo nothing was done therein.</p>
+            <p>The Cauſe in <hi>Chancery</hi> being ready for hearing in <hi>Michaelmas</hi> Term 1680 the Principal and Ancients by motion put it off, and exhibited another Bill againſt <hi>Kellett</hi> and <hi>Rogers,</hi> to whom <hi>Kellett</hi> had Mortgaged his two Buildings, and <hi>Rogers</hi> exhibited a<g ref="char:EOLhyphen"/>nother Bill againſt <hi>Kellett</hi> and the Principal and Ancients: And theſe cauſes coming to be heard on the 15th. of <hi>November</hi> 1681, the Lord Chancellor without hearing any proofs in the Cauſes, and without <hi>Kellett</hi> or his Councils conſent, ordered that <hi>Kellett</hi> ſhould convey his Inheritance of <hi>Clements-Inn,</hi> to the Society, or to whom they ſhould appoint; They paying <hi>Kellett</hi> what he paid to the Earl with intereſt, and making <hi>Kellett</hi> a Leaſe of the new building for ſixty years at the Rent of 20 <hi>
+                  <abbr>s.</abbr> per annum,</hi> and whereas <hi>Kellett</hi> had a term of nine years to come in a building called <hi>Dobbs</hi> his building, the Society ſhould make it up twenty one years, that <hi>Kellett</hi> ſhould pay <hi>Rogers</hi>'s Mortgage mony with intereſt by <hi>Chriſtmas</hi> 1682 or <hi>Rogers</hi> to hold abſolute, and on payment to reconvey to <hi>Kellett.</hi>
+            </p>
+            <p>The Society refuſed to enter up the Order for ſome time, becauſe <hi>Kellett</hi> would not Conſent, thereupon <hi>Kellett</hi> by his Petition to the Lord Chancellor ſhewed for rea<g ref="char:EOLhyphen"/>ſons why he could not conſent, for that the Society had agreed with <hi>Rogers</hi> to pay the Mortgage mony with intereſt, well knowing that none out of <hi>Clements-Inn,</hi> would buy <hi>Kelletts</hi> building, and he not able to raiſe the Mortgage mony otherwiſe, and ſo the Society would hold it abſolute. He therefore prayeth his Lordſhip to rehear the Cauſes or diſſolve the injunction, unleſs the Society would purchaſe the new buil<g ref="char:EOLhyphen"/>ding according to the particular of the Rent to his Petition annexed, and make him ſuch ſatisfaction for his damages as his Lordſhip ſhould think fit, that ſo he might diſ<g ref="char:EOLhyphen"/>charge the Mortgage; but nothing was done therein. But the Society about the 25th. of <hi>February</hi> laſt procured Mr. <hi>Deveniſh</hi> the Regiſter to enter up the Order to be by <hi>Kellett</hi> and his Councels conſent, whereas there was no conſent given, nor any mention<g ref="char:EOLhyphen"/>ed in the Minutes, as by Affidavit appeareth.</p>
+            <p>Now the Society would have the world believe that the Decree is very advanta<g ref="char:EOLhyphen"/>gious for <hi>Kellett;</hi> and that nothing in reaſon will ſatisfie him, but in that particular he refers himſelf to the Judgment of every impartial Reader of this his Caſe.</p>
+            <p>For <hi>Kellett</hi> will make it manifeſtly appear, that ſince the finiſhing of his Building, for want of a title to enable him to diſpoſe thereof, and by reaſon of the Societies un<g ref="char:EOLhyphen"/>juſt vexation for eight years, he hath been damnified 200 <hi>
+                  <abbr>l.</abbr> per annum,</hi> towards ſatiſ<g ref="char:EOLhyphen"/>faction whereof and other his demands there is decreed no more than theſe particu<g ref="char:EOLhyphen"/>lars, <hi>viz.</hi>
+            </p>
+            <p n="1">1. <hi>Kellett</hi> muſt convey his Inheritance at the Rate he paid for it with intereſt, but no allowance made him for his expences and damages.</p>
+            <p n="2">2. <hi>Kellett</hi> is to have twenty years added in the new building more than the forty years, and twelve years added in <hi>Dobbs</hi>'s Building to make it up twenty one years, which
+<pb n="4" facs="tcp:179490:3"/>
+makes a great cry but little wool, for it will not anſwer his charges in <hi>Chancery,</hi> which are conſiderable.</p>
+            <p n="3">3. <hi>Kellett</hi> is to have his Rent of 12 <hi>
+                  <abbr>l.</abbr> per annum</hi> abated to 20 <hi>
+                  <abbr>s.</abbr> per annum,</hi> and the Society take away a ſhop worth 10 <hi>
+                  <abbr>l.</abbr> per annum,</hi> ſo there is very little abated.</p>
+            <p n="4">4. <hi>Kellett</hi> muſt Convey his Inheritance under hand and Seal to the Society, and they will grant Leaſes to <hi>Kellett</hi> by way of Articles under their hands only, upon which Articles <hi>Kellett</hi> can neither ſue for his Rents, nor for breach of Articles on their parts, or diſpoſe of the ſame, whereas Builders in other houſes have Leaſes under hands and Seals, and may diſpoſe of the ſame ſubject to their Covenants.</p>
+            <p>If <hi>Kellett</hi> may have but half his damages, he will readily Convey his Inheritance at the Rate he paid for it with intereſt and perform his Contract to a tittle, without expecting his terms to be enlarged or his Rent and Arrears abated.</p>
+            <p>The Society pretended they have not mony to pay <hi>Kellett,</hi> whereas there are as many Buildings out of Leaſe as they may raiſe almoſt 1500 <abbr>
+                  <hi>l.</hi>
+               </abbr> by diſpoſing of them if the title was ſetled, and for want of a title few Principals have made accounts, but kept the Revenues of the houſe in their hands.</p>
+            <p>The reaſons why <hi>Kellett</hi> puts this in print, is becauſe he hath been much miſrepre<g ref="char:EOLhyphen"/>ſented and aſperſed in this affair, as if he intended to diſſolve the Society, which was never in his thoughts, neither doth he deſire to make any further advantage by any procedure of his, than to reinburſe him his expences and damages, and prevent his ruine, which he hopes that the Lord Chancellor being fully ſatisfied of the truth herein related, will in no wiſe ſuffer the Society to ruin <hi>Kellett</hi> and his Family, which will be no advantage to them, or prejudice if <hi>Kellett</hi> be relieved, but compell the So<g ref="char:EOLhyphen"/>ciety to do what his Lordſhip ſhall think moſt expedient according to Equity and Juſtice for the ſetling a final determination of all differences.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Richard Baldwin</hi> in the <hi>Old-Baily,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
